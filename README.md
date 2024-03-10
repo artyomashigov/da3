@@ -7,3 +7,5 @@ Welcome to the Data Analysis 3 repository! This repository contains the code and
 [Assignment 2](https://github.com/artyomashigov/da3/tree/main/da3_assignment2)
 
 [Assignment 3](https://github.com/artyomashigov/da3/tree/main/da3_assignment3)
+
+[Assignment 4](https://github.com/artyomashigov/da3/tree/main/da3_assignment4)
